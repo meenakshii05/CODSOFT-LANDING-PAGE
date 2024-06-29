@@ -1,0 +1,72 @@
+.min-h-screen {
+    min-height: 100vh; /* Minimum height is set to 100% of the viewport height */
+}
+
+.bg-red {
+    background-color: red; /* Background color is set to red */
+}
+
+.mx-auto {
+    margin-left: auto; /* Centers the element horizontally */
+    margin-right: auto;
+}
+
+.flex {
+    display: flex; /* Defines a flex container */
+}
+
+.items-center {
+    align-items: center; /* Aligns flex items along the center of the cross axis */
+}
+
+.justify-between {
+    justify-content: space-between; /* Distributes flex items with space between them */
+}
+
+.justify-center {
+    justify-content: center; /* Centers flex items along the main axis */
+}
+
+.flex-col {
+    flex-direction: column; /* Sets flex direction to column */
+}
+
+.font-bold {
+    font-weight: bolder; /* Sets font weight to bold */
+}
+
+.my-1 {
+    margin-top: 13px; /* Sets top and bottom margins to 13px */
+    margin-bottom: 13px;
+}
+
+.my-2 {
+    margin-top: 26px; /* Sets top and bottom margins to 26px */
+    margin-bottom: 26px;
+}
+
+.px-2 {
+    padding-left: 13px; /* Sets left and right padding to 13px */
+    padding-right: 13px;
+}
+
+.text-blue {
+    color: rgb(227, 74, 56); /* Sets text color to a specific shade of blue */
+}
+
+.btn {
+    padding: 7px 12px; /* Sets padding for button */
+    border: 2px solid white; /* Sets border properties for button */
+    border-radius: 6px; /* Sets border radius for rounded corners */
+    cursor: pointer; /* Changes cursor to pointer when hovering over button */
+    color: white; /* Sets text color to white */
+    background-color: rgb(227, 74, 56); /* Sets background color to a specific shade */
+}
+
+.overflow-x-hidden {
+    overflow-x: hidden; /* Hides horizontal overflow */
+}
+
+.text-center {
+    text-align: center; /* Centers text */
+}
